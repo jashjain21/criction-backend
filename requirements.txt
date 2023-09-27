@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+python-multipart
+dateparser
+pytest
+httpx
+sqladmin
+itsdangerous
+pandas
+PyJWT
+openpyxl
+gunicorn
